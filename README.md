@@ -17,6 +17,9 @@
 <img src="https://github.com/user-attachments/assets/2310d001-0a66-4711-9497-ec2f7b865e8a" width=300>
 
 ## 🛠️Tech Stacks
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ## ✨Contributors
 <table>
