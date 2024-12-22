@@ -5,12 +5,16 @@
 ## 🎮 Introduction
 
 ## 🗝️주요 기능
-- 🎵 공이 벽돌을 깼을 때, 랜덤 아이템 드랍 기능
-- 🔵 파란 공 아이템 얻으면, *3개 증가 기능
+- 🎵 **랜덤 아이템 드랍**  
+  공이 벽돌을 깼을 때, **20% 확률**로 랜덤 아이템이 드랍됩니다.
+
+- 🔵 **파란 공 아이템 효과**  
+  파란 아이템을 Paddle로 잡으면, **공이 3개 증가**합니다. 더 많은 공이 필드를 가득 채워 재미를 극대화합니다!
+
+  
 
 ## ⌨️게임 플레이 방법
-![image](https://github.com/user-attachments/assets/2310d001-0a66-4711-9497-ec2f7b865e8a)
-
+<img src="github.com/user-attachments/assets/2310d001-0a66-4711-9497-ec2f7b865e8a" width=300>
 
 ## 🛠️Tech Stacks
 
