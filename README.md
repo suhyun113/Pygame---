@@ -14,7 +14,7 @@
   
 
 ## ⌨️게임 플레이 방법
-<img src="github.com/user-attachments/assets/2310d001-0a66-4711-9497-ec2f7b865e8a" width=300>
+<img src="https://github.com/user-attachments/assets/2310d001-0a66-4711-9497-ec2f7b865e8a" width=300>
 
 ## 🛠️Tech Stacks
 
