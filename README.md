@@ -32,9 +32,9 @@
   **파란 공**을 Paddle로 잡으면, **공이 3개 증가**합니다. 더 많은 공이 필드를 가득 채워 재미를 극대화합니다!
       <img src="https://github.com/user-attachments/assets/2310d001-0a66-4711-9497-ec2f7b865e8a" width=300>
   <br>
-      <img src="https://github.com/user-attachments/assets/1df12a1a-17e7-49d2-afd7-d5d0c9c83459" width=300>
-      <img src="https://github.com/user-attachments/assets/46e320a3-1811-445e-873b-dd20b5e3744c" width=300>
-      <img src="https://github.com/user-attachments/assets/88c11cf6-c5bd-4b1d-9322-402b45e707f5" width=300> <br>
+      <img src="https://github.com/user-attachments/assets/1df12a1a-17e7-49d2-afd7-d5d0c9c83459" width=250>
+      <img src="https://github.com/user-attachments/assets/46e320a3-1811-445e-873b-dd20b5e3744c" width=250>
+      <img src="https://github.com/user-attachments/assets/88c11cf6-c5bd-4b1d-9322-402b45e707f5" width=250> <br>
       
   <br>
   
