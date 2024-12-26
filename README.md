@@ -72,7 +72,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Chaeyeon0">
+      <a href="https://github.com/yun460">
         <img src="https://avatars.githubusercontent.com/yun460" height="100" width="100"><br/>
         <strong>Chaeyeon0</strong>
       </a>
